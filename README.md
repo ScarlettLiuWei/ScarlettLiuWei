@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Scarlett Liu Wei
+- 👋 Hi, I’m Scarlett Liu 
 
 <!---
 ScarlettLiuWei/ScarlettLiuWei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
